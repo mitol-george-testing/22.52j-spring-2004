@@ -1,0 +1,39 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Thermodynamics"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Fluid Mechanics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "e36d65d1-cbc4-3f70-4234-7fc2a1a4c778"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Statistical Thermodynamics of Complex Liquids",
+  "course_description": "This course explores the theory of self-assembly in surfactant-water (micellar) and surfactant-water-oil (micro-emulsion) systems. It also introduces the theory of polymer solutions, as well as scattering techniques, light, x-ray, and neutron scattering applied to studies of the structure and dynamics of complex liquids, and modern theory of the liquid state relevant to structured (supramolecular) liquids.\n",
+  "department_numbers": [
+    "22",
+    "8",
+    "10"
+  ],
+  "extra_course_numbers": "8.575J,10.44J",
+  "primary_course_number": "22.52J",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams"
+  ],
+  "title": "Course Metadata"
+}
